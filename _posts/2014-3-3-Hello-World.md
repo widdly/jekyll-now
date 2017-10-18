@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Somewhere for me to post about my diy synth stuff
+title: Some diy synth stuff
 ---
 
-I've set this up for me to post about my projects.
+This is a blog about my diy projects, mostly related to synthesizers.  
 
-Here is a write up of Plexus, a diy cv/gate sequencer controlled by a launchpad..
+First up is a write up of Plexus, a diy cv/gate sequencer controlled by a launchpad..
 
-https://widdly.github.io/plexus/
+[https://widdly.github.io/plexus/](https://widdly.github.io/plexus/)
